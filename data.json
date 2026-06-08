@@ -1,0 +1,48 @@
+[
+{"question":"What is your company name?","answer":"Our company name is GTasterix PVT LTD."},
+{"question":"Hello","answer":"WELCOME TO OUR COMPANY.. How can we help you"},
+{"question":"Where is your company located?", "answer":"Our company is located in Pune, India."},
+{"question":"What services does your company provide?", "answer":"Our company provides software development and IT services."},
+{"question":"Do you provide internships?","answer":"Yes, we provide internships for fresh graduates."},
+{"question":"Do you hire freshers?","answer":"Yes, our company hires freshers for various roles."},
+{"question":"How many employees work in your company?","answer":"Around 300 to 500 employees work in our company."},
+{"question":"Is your company a private limited company?","answer":"Yes, our company is a private limited company."},
+{"question":"What technologies does your company use?","answer":"Our company works with Python, Machine Learning, and Web Development technologies."},
+{"question":"Does your company provide training?","answer":"Yes, our company provides training programs for selected candidates."},
+{"question":"What is the mission of your company?",  "answer":"Our mission is to deliver high quality software solutions."},
+
+{"question":"What is the vision of your company?","answer":"Our vision is to become a global leader in software development."},
+{"question":"When was your company founded?","answer":"Our company was founded in recent years to provide innovative IT solutions."},
+{"question":"Does your company work with international clients?","answer":"Yes, our company works with both domestic and international clients."},
+{"question":"How can I contact your company?","answer":"You can contact our company through email or the official website."},
+{"question":"Does your company provide work from home opportunities","answer":"Yes, work from home opportunities depend on project requirements."},
+
+{"question":"What programming languages are used in your company?","answer":"Our company mainly uses Python, JavaScript, and Java."},
+{"question":"Does your company develop web applications?","answer":"Yes, our company develops modern web applications."},
+{"question":"Does your company develop mobile applications?","answer":"Yes, our company also develops mobile applications."},
+
+{"question":"What kind of projects does your company handle?","answer":"Our company handles software development, automation, and AI projects."},
+{"question":"Do you provide software testing services?","answer":"Yes, our company provides software testing and QA services."},
+{"question":"What is the working culture in your company?", "answer":"Our company promotes a collaborative and innovative working culture."},
+{"question":"What are the working hours of your company?","answer":"The standard working hours are 9 AM to 6 PM."},
+{"question":"Does your company offer career growth opportunities?","answer":"Yes, our company offers strong career growth opportunities."},
+
+{"question":"Does your company support learning and development?",  "answer":"Yes, employees are encouraged to learn new technologies."},
+{"question":"What is the recruitment process in your company?","answer":"The recruitment process usually includes screening, technical interview, and HR interview."},
+{"question":"Does your company offer paid internships?", "answer":"Yes, some internships are paid depending on performance and role."},
+{"question":"Does your company work on artificial intelligence projects?",  "answer":"Yes, our company works on AI and machine learning projects."},
+{"question":"Does your company provide cloud services?","answer":"Yes, we work with cloud technologies like AWS and Azure."},
+{"question":"What database technologies does your company use?","answer":"We use MySQL, PostgreSQL, and MongoDB."},
+{"question":"Does your company follow agile methodology?","answer":"Yes, our company follows agile development practices."},
+
+{"question":"Do employees work in teams in your company?","answer":"Yes, employees work in collaborative teams."},
+{"question":"Does your company conduct meetings regularly?",   "answer":"Yes, regular meetings are conducted to track project progress."},
+{"question":"Does your company provide employee benefits?","answer":"Yes, employees receive various benefits and incentives."},
+{"question":"Does your company organize training sessions?","answer":"Yes, training sessions are organized for skill development."},
+{"question":"Does your company focus on innovation?", "answer":"Yes, innovation is a key focus of our company."},
+{"question":"Does your company use modern development tools?","answer":"Yes, we use modern tools like Git, Docker, and cloud platforms."},
+{"question":"Does your company encourage teamwork?",   "answer":"Yes, teamwork is strongly encouraged."},
+{"question":"What industries does your company serve?","answer":"Our company serves industries like finance, healthcare, and technology."},
+{"question":"Does your company build custom software solutions?",    "answer":"Yes, we build custom software solutions for clients."},
+{"question":"What makes your company unique?","answer":"Our company focuses on innovation, quality, and customer satisfaction."}
+] 

@@ -4,7 +4,7 @@ A Python based chatbot project that provides company related information using J
 
 # Chatbot
 
-This is a simple chatbot made using Python.
+This is a chatbot made using Python.
 
 The chatbot answers questions based on a dataset of around 40 questions and answers.
 The questions and answerss are stored in a JSON file.

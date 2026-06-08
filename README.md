@@ -22,7 +22,7 @@ How to run code:
 
 Install required library: pip install scikit-learn
 
-Run the chatbot:  python sample.py
+Run the chatbot:  python chatbot.py
 
 After running the program, you can type questions in the terminal to better reply.
 Start the conversation to chatbot saying Hello
